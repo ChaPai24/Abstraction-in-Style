@@ -171,7 +171,7 @@ Below shows some results of mixing up `A-VAT` and `S-VAT`.
 
 ```bibtex
 @misc{lu2026abstractionstyle,
-  title={Abstraction in Style},
+  title={Abstraction in Style: Beyond Texture and Color},
   author={Min Lu and Yuanfeng He and Anthony Chen and Jianhuang He and Pu Wang and Daniel Cohen-Or and Hui Huang},
   year={2026},
   eprint={2603.29924},
